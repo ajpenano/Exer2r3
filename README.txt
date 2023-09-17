@@ -1,5 +1,5 @@
 How to run the program:
-1. Put the file in a folder in your computer.
+1. Put the files in a folder in your computer.
 2. Run the Command Prompt as an Administrator.
 3. In the Command Prompt, change the directory to the folder where Exer2r3.java was saved.
 4. Type "javac Exer2r3.java" to compile the java file.
